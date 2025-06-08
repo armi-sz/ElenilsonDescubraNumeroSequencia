@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4274D15-AE41-4EB6-94B7-E86F95D18170}|ElenilsonDescubraNumeroSequencia.csproj|c:\\users\\nino_\\source\\repos\\elenilsondescubranumerosequencia\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4274D15-AE41-4EB6-94B7-E86F95D18170}|ElenilsonDescubraNumeroSequencia.csproj|solutionrelative:jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4274D15-AE41-4EB6-94B7-E86F95D18170}|ElenilsonDescubraNumeroSequencia.csproj|c:\\users\\nino_\\source\\repos\\elenilsondescubranumerosequencia\\jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4274D15-AE41-4EB6-94B7-E86F95D18170}|ElenilsonDescubraNumeroSequencia.csproj|solutionrelative:jogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4274D15-AE41-4EB6-94B7-E86F95D18170}|ElenilsonDescubraNumeroSequencia.csproj|c:\\users\\nino_\\source\\repos\\elenilsondescubranumerosequencia\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4274D15-AE41-4EB6-94B7-E86F95D18170}|ElenilsonDescubraNumeroSequencia.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4274D15-AE41-4EB6-94B7-E86F95D18170}|ElenilsonDescubraNumeroSequencia.csproj|c:\\users\\nino_\\source\\repos\\elenilsondescubranumerosequencia\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4274D15-AE41-4EB6-94B7-E86F95D18170}|ElenilsonDescubraNumeroSequencia.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\Menu.cs [Projeto]",
+              "RelativeToolTip": "Menu.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:52:31.537Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAawAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:12:37.278Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jogo.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\Jogo.cs",
+              "RelativeDocumentMoniker": "Jogo.cs",
+              "ToolTip": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\Jogo.cs [Projeto]",
+              "RelativeToolTip": "Jogo.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T05:58:25.615Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jogo.cs",
+              "DocumentMoniker": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\Jogo.cs",
+              "RelativeDocumentMoniker": "Jogo.cs",
+              "ToolTip": "C:\\Users\\nino_\\Source\\Repos\\ElenilsonDescubraNumeroSequencia\\Jogo.cs",
+              "RelativeToolTip": "Jogo.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:15:58.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
